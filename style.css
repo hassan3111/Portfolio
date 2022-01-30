@@ -729,7 +729,28 @@ footer span a:hover{
     }
     .services .serv-content .card{
         width: 100%;
+
     }
+    html, body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+    .img{
+        flex-basis: 100%;
+        margin-bottom: 30px;
+        /* max-width: 400%; */
+
+    }
+    .img-desc p{
+        font-size: 12px;
+    }
+    hr{
+        margin: 5px auto;
+    }
+    .img:hover .img-desc{
+        bottom: 25% !important;
+    }
+  
 }
 
 @media (max-width: 500px) {
