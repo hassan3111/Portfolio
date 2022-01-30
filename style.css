@@ -393,8 +393,10 @@ html, body {
     margin-top: 70px;
     
 }
-
-h1{
+.projects .title::after{
+    content: "explore";
+}
+h2{
     text-align: center;
     margin-top: 30px;
     font-size: 40px;
@@ -721,7 +723,7 @@ footer span a:hover{
     .img:hover .img-desc{
         bottom: 25% !important;
     }
-    h1{
+    h2{
         font-size: 32px;
         margin-top: -180px;
     }
