@@ -378,7 +378,7 @@ section .title::after{
     width: 70%;
 }
 
-/* teams section styling */
+/* teams section styling
 .teams .title::after{
     content: "who with me";
 }
@@ -440,7 +440,7 @@ section .title::after{
 .owl-dot:hover{
     background: crimson!important;
 }
-
+ */
 
 html, body {
     max-width: 100%;
