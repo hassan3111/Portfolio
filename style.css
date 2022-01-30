@@ -738,7 +738,7 @@ footer span a:hover{
     .img{
         flex-basis: 100%;
         margin-bottom: 30px;
-        /* max-width: 400%; */
+        max-width: 400%;
 
     }
     .img-desc p{
